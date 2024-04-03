@@ -1,14 +1,16 @@
-p { 
-    font-size : x-large;
+p {
+    font-size: x-large;
 }
+
 h1 {
     background-color: blueviolet;
 }
 
-.joaovcrt
-{color:blue
-    text-shadow:aliceblue}
-    
+.joaovcrt {
+    color: blue;
+    text-shadow: aliceblue;
+}
+
 
 #curso {
     text-align: center;
