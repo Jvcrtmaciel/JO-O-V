@@ -15,3 +15,32 @@ h1 {
 #curso {
     text-align: center;
 }
+
+.flex-container {
+    margin:0;
+    padding: 0;
+    display: flex;
+    list-style: none;
+}
+
+.linha {
+    flex-direction: row;
+
+}
+.flex-item{
+    background-color: blue;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    width: 16.6%;
+}
+
+.card img {
+    width: 100%;
+}
+
+.card p {
+    text-align: center;
+}
